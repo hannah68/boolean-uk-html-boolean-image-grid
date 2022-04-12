@@ -1,4 +1,4 @@
-# Today we're recreating a grid of cards. 
+# A grid of cards. 
 
 You'll have the opportunity to implement and style images 
 ## Instructions 
@@ -16,5 +16,5 @@ You'll have the opportunity to implement and style images
 - Don't forget to use what you've learned from the box model to position items inside the card 
 
 ## Challenge 
-1 Add a hero section before the grid section. You'll find an image you can use in the assets folder Challenge 
-2 Create a second page that will be linked to each card. This is called a detail page and should contain the same image as the card, plus some other descriptive content. It should have as well the same header and proper navigation in between pages
+1- Add a hero section before the grid section. You'll find an image you can use in the assets folder Challenge  
+2- Create a second page that will be linked to each card. This is called a detail page and should contain the same image as the card, plus some other descriptive content. It should have as well the same header and proper navigation in between pages
