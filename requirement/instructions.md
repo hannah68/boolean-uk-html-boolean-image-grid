@@ -1,6 +1,6 @@
 # Today we're recreating a grid of cards. 
-
 You'll have the opportunity to implement and style images 
+
 ## Instructions 
 - Use this starting template => https://codesandbox.io/s/boolean-grid-jx115?from-embed - Don't forget to fork the sandbox before writing any code - Create a 16 card grid, each card includes:
  - A main image with (found in the assets folder) 
